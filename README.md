@@ -1,6 +1,7 @@
 # hello-world
 
 Just another repository.
+
 Hi everyone,
 
 İsmail here. 
